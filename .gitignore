@@ -105,4 +105,4 @@ simgui-ds.json
 networktables.json
 
 **/.DS_Store
-/src/main/kotlin/com/team4099/robot2023/BuildConstants.kt
+/RobotProject/src/main/kotlin/com/team4099/robot2023/BuildConstants.kt
