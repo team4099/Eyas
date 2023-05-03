@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Falcon Alliance"
-copyright = "2022, Team 4099"
+project = "Eyas"
+copyright = "2023, Team 4099"
 author = "Team 4099 - The Falcons"
 
 extensions = [
