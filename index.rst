@@ -1,23 +1,16 @@
-M000: Introduction
+Eyas: A Guide to Team 4099's Robot Code Paradigm
 ==================
 
-About
+Things To Know
 -----
-There are quite a few things you will be able to learn from this documentation. However, you could read every single page here, all the linked sources, everything you can find on Chief Delphi, but if you don't ever **do** the things you read about, then you will have missed the point. This documentation is not meant to be everything you need to know, it's only half.   
-  
-The rest is not something that can be boiled down into words and put onto a website, much less by me. The rest comes from trying all of it. The only way to get the rest is to do the things again and again. You will mess up, I can't count the amount of times experienced mechanical members have broken drill bits [#m1]_. Mess up, learn from your mistakes and you will be doing everything right. Try doing the things you haven't done before, and I promise you will get better at things so much faster.  
-  
-FRC is a very interesting group of people. We build robots from scratch in two months while balancing it with school work. Everyone **is** capable of doing the things we do. Everyone here is capable and does a tremendous amount to help the team. **Ask Questions!** You have the capability to do anything anyone else is, the only difference is you haven't learned it yet. Asking questions can be hard, because you must admit you don't know. Trust me, the awkwardness of learning is more than worth than the payoff of knowing. Anyone on this team is happy to pass down their knowledge and help you grow. All **you** have to do is ask, and you shall recieve.
+There's going to be a lot of information and code throughout this guide. If used effectively, the reader should be able to be able to program virtually any mechanism this team desires (or at least have the knowledge to figure out how) -- but emphasis on effectively. Copying code directly from here without understanding will only harm you. Take the time to ask questions in our Slack and debug issues on your own: after all, programmers are really just skilled problem solvers in (programming) languages.
 
-Structure
+The goal of this document is to help you understand the ins and outs of our robot code so you as an individual are capable of programming a robot by yourself if need be. Don't skip steps or take shortcuts! This guide builds upon itself and skipping chapters is just gonna make it harder on you. But beyond even understanding robot code, the goal is to ensure you can program mechanisms with nothing but your understanding of a mechanism, WPILib, and a valid IDE. Just like how there's no guide to life, eventually each and every one of you will need to program without an example to go off of -- and this guide aims to prepare you for that.
+
+Getting Started (Installation)
 ---------
-This documentation is organized in a way that may be confusing at first, but after a bit of explanation it will all make sense.  
-You may have noticed the M000 in the title of this page. Every page in this section has been given a 3 digit code. The first digit is either 0 or 1. It is 0 for more abstract pages and 1 for more content focused ones. The second digit differentiates content focused pages. If it is 0, it is core content; these are things you should definetly know. If it is 1, it is more detailed and specific content; these things are nice to know. In addition, the reST and html file are named with the code.
-  
-Each page, other than this one, will have a summary and a further reading section. The summary will explain what that page covers, and the further reading section will detail other sources for more information, or sources from which the page was written.  
-  
-  
+Installation is (unfortunately) a necessary part of the programming process. Chances are even if you follow everything here perfectly, something will go wrong and you'll spend some time looking for the solution. **It is going to suck and that is okay.** Or maybe everything works first try and you avoid the misery which is installation issues. Feel free to ask questions in Slack if something is bugging you too much but try to debug the issues yourself! It's a painful, yet valid experience that'll help you get used to what debugging is like sometimes.
 
 .. rubric:: Footnotes
 
-.. [#m1] Actually, I can! Here's a list: Ritvik Jain - 5 (One season), Zachary Friedman-Hill - 1. Not a single new member has broken one!
+.. [#m1] Lorem Ipsum
