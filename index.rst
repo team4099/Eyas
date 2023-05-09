@@ -11,4 +11,4 @@ Getting Started (Installation)
 --------------------------------
 Installation is (unfortunately) a necessary part of the programming process. Chances are even if you follow everything here perfectly, something will go wrong and you'll spend some time looking for the solution. **It is going to suck and that is okay.** Or maybe everything works first try and you avoid the misery which is installation issues. Feel free to ask questions in Slack if something is bugging you too much but try to debug the issues yourself! It's a painful, yet valid experience that'll help you get used to what debugging is like sometimes.
 
-See :doc: `docs/installation/installation`
+See :doc:`docs/installation/installation`
